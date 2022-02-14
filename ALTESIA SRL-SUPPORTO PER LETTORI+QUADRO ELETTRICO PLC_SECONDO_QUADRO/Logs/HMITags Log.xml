@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="HMITags Log.xml" projectName="C:\Users\BMTec_HP_01\Desktop\HMITags.xlsx" typeText="Tipo" messageText="Messaggio" timeText="Ora">
+  <LogEntry type="Error" dateTime="16:46:14">
+    <Message>Durante il caricamento del file C:\Users\BMTec_HP_01\Desktop\HMITags.xlsx si è verificato un errore, probabile protezione in scrittura oppure elaborazione del file in corso.</Message>
+  </LogEntry>
+</LogFile>
